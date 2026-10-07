@@ -1,40 +1,170 @@
-# Hi 👋, I'm Ahmed Abdullatif
+# Hi, I'm Ahmed Abdullatif 👋
 
-### learning AI & Data Engineering
+### Computer Science Student | Aspiring AI Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed Abdullatif&label=Profile views&color=0e75b6&style=flat" alt="Ahmed Abdullatif" /> </p>
+I'm a Computer Science student at **Helwan University** building my path toward **AI Engineering** through hands-on learning, problem solving, and practical projects.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed Abdullatif" alt="Ahmed Abdullatif" /></a> </p>
+My current focus is on strengthening my foundations in **Python, SQL, Data Science, Machine Learning, and AI Engineering**, while gradually moving toward building more complete AI-powered systems.
 
-- 🔭 I'm currently working on **A library python projects **
+---
 
-- 🌱 I'm currently learning **Python for data science and machine learning**
+## 🧠 About Me
 
-- 🤝 I'm looking for help with **leaning Ai engineer and Data engineer**
+* 🎓 Computer Science Student at **Helwan University**
+* 🤖 Aspiring **AI Engineer**
+* 🐍 Building strong foundations with **Python**
+* 📊 Learning **Data Science & Machine Learning**
+* 🗄️ Working with **SQL & data-oriented workflows**
+* ⚙️ Exploring **AI Automation** and practical AI applications
+* 🚀 Interested in building useful, real-world AI systems
+* 📚 Always learning, building, and improving
 
-- 💬 Ask me about **Java, Python, C, Database, UML, Machine Learning and SQL**
+---
 
-- 📫 How to reach me **ahmed3545ft65@gmail.com**
+## 🚀 Featured Work
 
-- ⚡ Fun fact **I'm encourage Manchester United **
+### ⚽ Premier League AI Analyst
 
-- 👨‍💻 All of my projects are available at **[https://www.linkedin.com/in/ahmed-abdullatif-732088336/](https://www.linkedin.com/in/ahmed-abdullatif-732088336/)**
+An LLM-powered Streamlit application that answers natural-language questions about the **2025–2026 English Premier League standings**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Ahmed Abdullatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ahmed Abdullatif" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Ahmed Abdullatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Abdullatif" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/AhmedAbdullatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="AhmedAbdullatif" height="30" width="40" /></a>
-<a href="https://leetcode.com/Ahmed Abdullatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ahmed Abdullatif" height="30" width="40" /></a>
-</p>
+**Built with:** Python • Streamlit • Groq API • OpenAI SDK
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+→ [View Project](../AI-Engineer-Journey/tree/main/projects/premier-league-ai-analyst)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed Abdullatif&show_icons=true&locale=en&layout=compact" alt="Ahmed Abdullatif" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed Abdullatif&show_icons=true&locale=en" alt="Ahmed Abdullatif" /></p>
+### 🧠 AI Customer Feedback Intelligence System
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed Abdullatif&" alt="Ahmed Abdullatif" /></p>
+An applied Machine Learning project developed during my **ITI Artificial Intelligence training**.
 
-عايز README جامد
+The project focuses on transforming customer reviews into useful insights through:
+
+* Sentiment Classification
+* Complaint Clustering
+* Text Preprocessing
+* Feature Extraction
+* Machine Learning
+* Business Insights
+
+**Built with:** Python • Pandas • NumPy • NLTK • Scikit-Learn • Matplotlib • Seaborn
+
+---
+
+### 🧩 Python Problem Solving
+
+A growing collection of Python programming and Object-Oriented Programming exercises focused on strengthening:
+
+* Problem-solving
+* Logical thinking
+* Python fundamentals
+* Object-Oriented Programming
+* System design fundamentals
+
+→ [Explore Problem Solving](../AI-Engineer-Journey/tree/main/problem-solving)
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=postgresql\&logoColor=white)
+
+### Data & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+
+### AI & Application Development
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+My learning path is focused on building the foundations required for practical AI Engineering.
+
+```text
+Python
+   ↓
+Problem Solving & OOP
+   ↓
+SQL
+   ↓
+NumPy & Pandas
+   ↓
+Data Science
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+NLP & LLMs
+   ↓
+AI Engineering
+```
+
+Alongside this path, I'm exploring **AI Automation** and learning how APIs, workflows, and AI services can be combined to build useful automation systems.
+
+---
+
+## 🏗️ My Learning Philosophy
+
+I believe in learning by **building**, not only by watching courses.
+
+My approach is:
+
+```text
+Learn
+  ↓
+Understand
+  ↓
+Practice
+  ↓
+Build
+  ↓
+Break Things
+  ↓
+Debug
+  ↓
+Improve
+```
+
+The goal is not to collect technologies.
+
+The goal is to understand them well enough to **use them to solve real problems**.
+
+---
+
+## 🎯 Long-Term Goal
+
+My long-term goal is to become a strong **AI Engineer** capable of building practical AI systems from data and models all the way to usable applications.
+
+I'm especially interested in the intersection of:
+
+**Machine Learning • Data • LLMs • APIs • AI Automation • Software Engineering**
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with other developers, students, AI enthusiasts, and people interested in building useful technology.
+
+* 💼 [LinkedIn](https://eg.linkedin.com/in/ahmed-abdullatif-732088336)
+* 🐙 [GitHub](../)
+* 🚀 [AI Engineer Journey](../AI-Engineer-Journey)
+
+---
+
+## 📈 The Journey Continues
+
+> **Learn deeply. Build consistently. Improve relentlessly.**
+
+Thanks for visiting my profile! 🚀
+
