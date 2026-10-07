@@ -70,11 +70,11 @@ A growing collection of Python programming and Object-Oriented Programming exerc
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=postgresql\&logoColor=white)
-![C](https://img.shields.io/badge/C-228B22?style=flat&logo=c&logoColor=white)
 
 
-### Data & Machine Learning
+### Data Science & Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
