@@ -71,6 +71,8 @@ A growing collection of Python programming and Object-Oriented Programming exerc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=postgresql\&logoColor=white)
+![C](https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=00599C)
+
 
 ### Data & Machine Learning
 
