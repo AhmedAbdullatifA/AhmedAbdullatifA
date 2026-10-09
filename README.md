@@ -21,46 +21,13 @@ My current focus is on strengthening my foundations in **Python, SQL, Data Scien
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Projects
 
-### ⚽ Premier League AI Analyst
+I build practical projects throughout my learning journey, ranging from programming and data-focused work to Machine Learning and AI applications.
 
-An LLM-powered Streamlit application that answers natural-language questions about the **2025–2026 English Premier League standings**.
+My projects are organized separately so that each project can have its own documentation, implementation, and development history.
 
-**Built with:** Python • Streamlit • Groq API • OpenAI SDK
-
-→ [View Project](../AI-Engineer-Journey/tree/main/projects/premier-league-ai-analyst)
-
----
-
-### 🧠 AI Customer Feedback Intelligence System
-
-An applied Machine Learning project developed during my **ITI Artificial Intelligence training**.
-
-The project focuses on transforming customer reviews into useful insights through:
-
-* Sentiment Classification
-* Complaint Clustering
-* Text Preprocessing
-* Feature Extraction
-* Machine Learning
-* Business Insights
-
-**Built with:** Python • Pandas • NumPy • NLTK • Scikit-Learn • Matplotlib • Seaborn
-
----
-
-### 🧩 Python Problem Solving
-
-A growing collection of Python programming and Object-Oriented Programming exercises focused on strengthening:
-
-* Problem-solving
-* Logical thinking
-* Python fundamentals
-* Object-Oriented Programming
-* System design fundamentals
-
-→ [Explore Problem Solving](../AI-Engineer-Journey/tree/main/problem-solving)
+→ [Explore My Projects](../AI-Engineer-Journey/tree/main/projects)
 
 ---
 
@@ -73,8 +40,7 @@ A growing collection of Python programming and Object-Oriented Programming exerc
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=postgresql\&logoColor=white)
 
-
-### Data Science & Machine Learning
+### Data & Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
@@ -131,8 +97,6 @@ Practice
   ↓
 Build
   ↓
-Break Things
-  ↓
 Debug
   ↓
 Improve
@@ -158,9 +122,9 @@ I'm especially interested in the intersection of:
 
 I'm always open to connecting with other developers, students, AI enthusiasts, and people interested in building useful technology.
 
-* 💼 [LinkedIn](https://eg.linkedin.com/in/ahmed-abdullatif-732088336)
-* 🐙 [GitHub](../)
-* 🚀 [AI Engineer Journey](../AI-Engineer-Journey)
+* 💼 LinkedIn
+* 🐙 GitHub
+* 🚀 AI Engineer Journey
 
 ---
 
@@ -169,4 +133,5 @@ I'm always open to connecting with other developers, students, AI enthusiasts, a
 > **Learn deeply. Build consistently. Improve relentlessly.**
 
 Thanks for visiting my profile! 🚀
+
 
